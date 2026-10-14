@@ -72,7 +72,8 @@ does not try to hide AI use.
 The AI-tells list and the checker's prose rules are adapted from
 [humanizer](https://github.com/blader/humanizer) by blader and
 [stop-slop](https://github.com/hardikpandya/stop-slop) by hardikpandya. Both are MIT
-licensed and draw on Wikipedia's "Signs of AI writing".
+licensed and draw on Wikipedia's "Signs of AI writing". Their notices are in
+[THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
 
 ## 中文说明
 
